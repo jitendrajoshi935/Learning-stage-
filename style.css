@@ -31,6 +31,6 @@ a{
 }
 @media (max-wdith: 400px){
     div{
-        wdith: 250px;
+        wdith: 200px;
     }
 }
