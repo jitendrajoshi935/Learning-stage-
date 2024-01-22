@@ -29,4 +29,8 @@ img{
 a{
     color: aliceblue;
 }
-
+@media (max-wdith: 400px){
+    div{
+        wdith: 250px;
+    }
+}
